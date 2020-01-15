@@ -16,29 +16,13 @@ ________________________________________________________________________________
 * Token Symbol: SPRKL
 * Token Decimals: 8
 * Max supply: 70,000,000
-* Circulating Supply: 32,830,000
-* Total Airdrop Supply: 1,460,150
-* Soft Cap: Token distribution will start immediately
+* Circulating Supply: ~2,830,000
 
 __________________________________________________________________________________________________________________________________
 
 #### Airdrop Contract Address: *0x33D9Eb04442b7711cec632384DF6BbA45B141d3A*
 
 [Etherscan link](https://etherscan.io/address/0x33d9eb04442b7711cec632384df6bba45b141d3a)
-
-
-
-### Airdrop Rounds
-* Round 1: November 30th, 2018 to January 1st, 2019 (30 SPRKL)
-* Round 2: January 2nd, 2019 to February 3rd, 2019 (30 SPRKL)
-* Round 3: TBA
-* Round 4: TBA
-* Round 5: TBA
-* Round 6: TBA
-* Round 7: TBA
-* Round 8: TBA
-* Round 9: TBA
-* Round 10: TBA
 
 
 
@@ -53,12 +37,12 @@ ________________________________________________________________________________
 __________________________________________________________________________________________________________________________________
 
 ## How to Claim Tokens with MyEtherWallet 
-<img width="630" alt="myetherwallet sprkl" src="https://user-images.githubusercontent.com/42134382/49959721-438a1200-fec3-11e8-8b54-e89f333e96c8.PNG">
+
 
 [A detailed guide on how to claim your Sparkle Airdrop on MyEtherWallet](https://www.linkedin.com/pulse/detailed-guide-how-claim-your-sparkle-airdrop-jonah-glasgow/)
 
 ## How to Claim tokens with Etherscan + Metamask
-<img width="725" alt="etherscan metamask" src="https://user-images.githubusercontent.com/42134382/49959867-9e236e00-fec3-11e8-85a5-afb6b13625dd.PNG">
+
 
 [A detailed guide on how to claim your Sparkle Airdrop on Etherscan + Metamask](https://www.linkedin.com/pulse/detailed-guide-how-claim-your-sparkle-airdrop-using-metamask-glasgow/)
 
