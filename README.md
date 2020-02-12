@@ -1,6 +1,3 @@
-
-![sprkl](https://user-images.githubusercontent.com/42134382/49959610-ebeba680-fec2-11e8-83c2-b136083e5e91.png)
-
 # Sparkle-Airdrop
 
 To celebrate our launch we have given community members 30 Sparkle tokens each, please note only community members who followed campaign rules correctly will be able to claim tokens. We've made sure that the people sending eth to the contract is reverted and not accepted however we are not responsible for any lost ETH if accidentally to our airdrop address.
